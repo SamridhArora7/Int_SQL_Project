@@ -48,6 +48,10 @@ Key steps performed:
 - Segmented customers into **High, Mid, and Low-Value** groups
 - Analyzed revenue contribution per segment
 
+
+![alt text](image.png)
+
+
 **Key Findings:**
 - **High-Value Customers (25%)** generate **66% of total revenue (~$135.4M)**
 - **Mid-Value Customers (50%)** generate **32% of total revenue (~$66.6M)**
